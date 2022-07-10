@@ -10,7 +10,7 @@ export const StyledComponents = () => {
 };
 
 const SContainer = styled.div`
-  boder: solid 1px #aaa;
+  border: solid 1px #aaa;
   border-radius: 20px;
   padding: 8px;
   margin: 8px;
